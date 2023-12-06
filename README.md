@@ -1,20 +1,7 @@
-## Epic Cloud Infrasturcture Code Interview
-
-![Epic Logo](./epic.png)
-
-**Thanks for interviewing at Epic Games!** :tada:
-
-Please be sure to _keep this test and your answers private_ and off of any publicly available medium such as a public GitHub repository or social media.
-
-It is expected that you will solve the following tasks with the Go programming language.
-
-This test is expected to take about two hours to complete.  Please do as much as you are able within that time and do not feel obligated to complete the entire test if you run out of time.
-
-When you have completed your work, please compress this repository and return it as a whole.
 
 ### Your Own Games Store
 
-Your task will be to use the included game data JSON from the Epic Games Store to create both a web server container and CLI tool to interface with it.  Your web service will be expected to run locally as a Docker container for review. You are also asked to produce a valid Kubernetes specification that can be applied to run this web service on a Kubernetes cluster.
+Your task will be to use the included game data JSON from the Games Store to create both a web server container and CLI tool to interface with it.  Your web service will be expected to run locally as a Docker container for review. You are also asked to produce a valid Kubernetes specification that can be applied to run this web service on a Kubernetes cluster.
 
 A placeholder `Dockerfile` and `Makefile` with a few comments have been created for you to get you started.
 
